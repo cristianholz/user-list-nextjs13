@@ -1,0 +1,11 @@
+.paginationList{
+  @apply bg-purple-800 rounded text-white items-center justify-center flex hover:bg-purple-600 transition-all duration-300
+}
+
+.pagination__button{
+  @apply text-white block h-9 w-10 
+}
+
+.button__active{
+  @apply bg-purple-600
+}
